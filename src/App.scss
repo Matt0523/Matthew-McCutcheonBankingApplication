@@ -1,0 +1,15 @@
+
+
+// Customize some defaults
+$body-color: #00ADB5;
+$body-bg: #393E46;
+$border-radius: .4rem;
+$success: #7952b3;
+
+$theme-colors: (
+  "primary": #393E46,
+  "seconddary": #EEEEEE,
+  "danger": #00ADB5
+);
+
+@import "../node_modules/bootstrap/scss/bootstrap";
